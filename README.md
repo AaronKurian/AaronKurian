@@ -24,4 +24,4 @@ Skills:  HTML / CSS / JS / PYTHON / C
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaronkurian&layout=compact&theme=chartreuse-dark)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aaronkurian&theme=chartreuse-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aaronkurian&theme=chartreuse-dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
