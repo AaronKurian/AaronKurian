@@ -11,8 +11,7 @@ You can click the Preview link to take a look at your changes.
 - 🔭 I’m currently working on  Web Development and AI 
 - 🌱 I’m currently learning about Google Cloud 
 - 💞️ I’m looking to collaborate on OpenSource Projects  
-- 📫 How to reach me: @ aaronkurianabraham@gmail.com
-                     : @https://www.linkedin.com/in/aaronkurianabraham 
+- 📫 How to reach me: @ aaronkurianabraham@gmail.com @https://www.linkedin.com/in/aaronkurianabraham 
 - 😄 Pronouns: He/Him
 
 **Skills:  HTML / CSS / JS / PYTHON / C**
