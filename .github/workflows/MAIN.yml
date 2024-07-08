@@ -13,7 +13,7 @@ on:
   workflow_dispatch:
   
 permissions:
-  contents: write
+            write-all
 # The sequence of runs in this workflow:
 jobs:
   # This workflow contains a single job called "build"
