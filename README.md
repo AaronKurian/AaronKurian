@@ -5,6 +5,7 @@ You can click the Preview link to take a look at your changes.
 ### Hi there 👋, I’m Aaron Kurian
 ![github](https://github.com/AaronKurian)
 
+![git art](https://github.com/AaronKurian/AaronKurian/blob/main/gitartwork.svg)
 
 
 
@@ -33,3 +34,5 @@ You can click the Preview link to take a look at your changes.
                                                                                                                                                                                                                                                                                                                                                                                                                
 
 ![snake gif](https://github.com/AaronKurian/AaronKurian/blob/output/github-contribution-grid-snake-dark.svg)
+
+
