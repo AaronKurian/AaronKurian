@@ -1,4 +1,4 @@
- name: gitartwork from a contribution graph
+ name: GITARTwork Name Generation
  on: 
    push:
    schedule:
