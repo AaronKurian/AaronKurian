@@ -32,4 +32,4 @@ You can click the Preview link to take a look at your changes.
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aaronkurian&theme=chartreuse-dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
                                                                                                                                                                                                                                                                                                                                                                                                                
 
-![snake gif](https://github.com/AaronKurian/AaronKurian/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/AaronKurian/AaronKurian/blob/output/github-contribution-grid-snake-dark.svg)
