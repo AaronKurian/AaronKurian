@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 - 📫 How to reach me: @ aaronkurianabraham@gmail.com @https://www.linkedin.com/in/aaronkurianabraham 
 - 😄 Pronouns: He/Him
 
-**Skills:  HTML / CSS / JS / PYTHON / C**
+**Skills:  HTML / CSS / JS / PYTHON / C / JAVA**
 
 
 
