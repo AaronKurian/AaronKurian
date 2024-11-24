@@ -36,7 +36,7 @@ You can click the Preview link to take a look at your changes.
 </a>
 
 <a href="https://github.com/AaronKurian/convoychat](https://git.io/streak-stats">
-  <img height=200 align="center" src="http://github-readme-streak-stats.herokuapp.com?user=aaronkurian&theme=chartreuse-dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=350" />
+  <img height=200 align="center" src="http://github-readme-streak-stats.herokuapp.com?user=aaronkurian&theme=chartreuse-dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=380" />
 </a>
 
 
