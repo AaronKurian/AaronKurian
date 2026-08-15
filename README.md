@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-- 🔭 I’m currently working on  Web Development and AI
+- 🔭 I’m currently working on Software Development and AI
 <!---
 - 🌱 
 --->
